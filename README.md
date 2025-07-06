@@ -46,12 +46,10 @@ A highly motivated fourth-year Computer Engineering student with a passion for s
 
 ---
 
-### A Word On Emacs...
-
-Yes, I am one of *those* people. I believe that Emacs is not just a text editor, but a way of life. It's an entire operating system disguised as a text editor, and it's the most powerful tool a developer can have in their arsenal. I'm a huge advocate for Emacs and I'm always happy to chat about it!
-
-... and much more! I'm always learning and exploring new technologies.
-
+## Contact me at Signal!
+<div align="center">
+	<img src="signal.png" alt="signal-qr" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
