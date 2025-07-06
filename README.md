@@ -48,7 +48,7 @@ A highly motivated fourth-year Computer Engineering student with a passion for s
 
 ## Contact me at Signal!
 <div align="center">
-	<img src="signal.png" alt="signal-qr" />
+	<img src="signal.png" alt="signal-qr" width="64" />
 </div>
 
 <picture>
