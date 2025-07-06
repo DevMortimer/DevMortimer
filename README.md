@@ -24,7 +24,6 @@ A highly motivated fourth-year Computer Engineering student with a passion for s
 ![Emacs Lisp](https://img.shields.io/badge/emacs%20lisp-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white)
 ![Clojure](https://img.shields.io/badge/clojure-%235A9442.svg?style=for-the-badge&logo=clojure&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https.img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
