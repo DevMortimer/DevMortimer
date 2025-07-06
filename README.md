@@ -1,6 +1,12 @@
 # About Me:
 
+<h1 align="center"><b>Hello! I'm Ryan!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 A highly motivated fourth-year Computer Engineering student with a passion for software development and a strong foundation in Linux. A self-directed learner who thrives in challenging environments, with a proven ability for independent problem-solving and rapid skill acquisition.
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75E3A&width=435&lines=Linux+and+Emacs+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
