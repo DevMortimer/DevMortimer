@@ -1,4 +1,4 @@
-<strong>I love emacs.</strong>
+<strong>I love emacs and lisp.</strong>
 
 Contact me at Signal!
 <div align="center">
