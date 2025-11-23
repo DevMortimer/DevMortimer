@@ -1,8 +1,8 @@
 <strong>I love emacs and lisp.</strong>
 
-Contact me at Signal!
 <div align="center">
 	<img src="signal.png" alt="signal-qr" width="164" />
+	<p>Contact me at Signal!</p>
 </div>
 
 <picture>
