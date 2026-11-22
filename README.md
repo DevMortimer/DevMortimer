@@ -1,12 +1,16 @@
-<strong>I love emacs and lisp.</strong>
+**I love emacs and lisp.**
 
-Right now I build [pi-warden](https://github.com/DevMortimer/pi-warden) and [pi-typesafe](https://github.com/DevMortimer/pi-typesafe): a fast judgment model checks each tool call a coding agent makes, hands the verdict back to the agent, and grades its own decisions on recorded sessions. The README's Calibration section has the numbers.
+I build full-stack production software and the verification harnesses that keep AI coding agents honest:
 
-Day job: [Postlight](https://postlight.ai)
+- **[pi-warden](https://github.com/DevMortimer/pi-warden)** & **[pi-typesafe](https://github.com/DevMortimer/pi-typesafe)** — Runtime guardrails for Pi, Claude Code, and Codex (`196` stars, `9,100+` monthly npm downloads, `817` risky actions stopped across `3,350` real sessions at `91%` sensitivity / `97%` specificity).
+- **[carvel](https://ryanjoshuagapac.com/carvel-demo/)** ([architecture](https://git.ryanjoshuagapac.com/DevMort/carvel)) — Local-first multi-agent engineering workspace in Common Lisp (SBCL) and vanilla JS (`2,890+` commits).
+- **[Warden-S1](https://ryanjoshuagapac.com/writing/warden-s1)** *(work in progress)* — Sub-1 GiB (`752M` params, `404 MiB` 4-bit), `128K`-context local System-One verification model (`831 MiB` @ `64K` and `855 MiB` @ `128K` measured on Apple M5 Metal; `18.8×` warm `O(ΔL)` turn speedup).
 
-Personal site: [Me](https://ryanjoshuagapac.com)
+Previously: Founding Engineer (first hire) at [Postlight](https://postlight.ai) (SF & Singapore).
 
-If pi-warden saved you from a bad `rm -rf`, [sponsoring](https://github.com/sponsors/DevMortimer) keeps the calibration runs paid for.
+Writing: [My Explorations on Bettering AI](https://ryanjoshuagapac.com/writing/bettering-ai) · Personal site: [ryanjoshuagapac.com](https://ryanjoshuagapac.com)
+
+If `pi-warden` saved you from a bad `rm -rf`, [sponsoring](https://github.com/sponsors/DevMortimer) keeps the calibration and training runs paid for.
 
 <div align="center">
 	<img src="signal.png" alt="signal-qr" width="164" />
